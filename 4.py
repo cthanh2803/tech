@@ -1,0 +1,5 @@
+n = int(input())
+c, d = input().split()
+x = n - int(c)
+y = y - int(d)
+print(y)
